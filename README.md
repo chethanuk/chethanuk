@@ -100,14 +100,4 @@ Connect with me here - [![Linkedin: ChethanUK](https://img.shields.io/badge/-che
 I get excited about opportunities where I'm able to leverage big data to discover insights and identify patterns that have real human impact. <br/>
 I love connecting with new people, give me a shout at chethanuk@outlook.com or on [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/)!
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#96](https://github.com/chethanuk/seedspark/pull/96) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-2. ❌ Closed PR [#99](https://github.com/chethanuk/seedspark/pull/99) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-3. ❌ Closed PR [#98](https://github.com/chethanuk/seedspark/pull/98) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-4. ❌ Closed PR [#94](https://github.com/chethanuk/seedspark/pull/94) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-5. ❌ Closed PR [#93](https://github.com/chethanuk/seedspark/pull/93) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-<!--END_SECTION:activity-->
-
 ---
