@@ -1,0 +1,56 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  SNAKE_SPEED_FACTOR: 1.5
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate stats.json
+        uses: HowardZlh/github-action-shares@v1
+        with:
+          source: user
+          target: ${{ github.repository_owner }}
+          out-dir: profile-3d-contrib
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Nokia snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile-3d-contrib/snake.svg
+            profile-3d-contrib/snake-dark.svg?palette=github-dark
+
+      - name: Adjust radar metrics and slow down snake animation
+        run: node scripts/adjust-profile.js --snake-scale ${{ env.SNAKE_SPEED_FACTOR }}
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(profile-3d): update 3d contribution calendar and stats [skip ci]"
+            git push
+          fi

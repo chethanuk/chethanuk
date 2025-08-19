@@ -10,11 +10,13 @@ Recently, I've been shipping Kubernetes-native LLM inference (vLLM, SGLang, llm-
 [![Email](https://img.shields.io/badge/Email-chethanuk%40outlook.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:chethanuk@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-chethanuk-181717?style=flat-square&logo=github)](https://github.com/chethanuk)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/snake.svg">
+    <img alt="github contribution grid snake animation" src="./profile-3d-contrib/snake-dark.svg">
+  </picture>
+</div>
 
 <a><h2>Open Source Contributions</h2></a>
 
@@ -71,7 +73,7 @@ Recently, I've been shipping Kubernetes-native LLM inference (vLLM, SGLang, llm-
 
 </details>
 
-<a><h2>What I've Been Doing Recently ⚙️</h2></a>
+<a><h2>What I've Been Doing</h2></a>
 
 - **Kubernetes LLM Inference:** Running vLLM, SGLang, and llm-d on GKE and EKS with the [Gateway API Inference Extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension), prefix-cache routing, and disaggregated prefill/decode.
 - **GPU Scheduling & Sharing ([HAMi](https://github.com/Project-HAMi/HAMi) & [KAI Scheduler](https://github.com/kai-scheduler/KAI-Scheduler)):** Multi-tenant GPU sharing with hard VRAM limits, dynamic resource allocation (DRA), and fractional GPU slicing.
@@ -82,7 +84,13 @@ Recently, I've been shipping Kubernetes-native LLM inference (vLLM, SGLang, llm-
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chethanuk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="Chethan Umesha 3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
 
 <a><h2>Technical Skills & Platforms</h2></a>
 
