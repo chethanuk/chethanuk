@@ -60,10 +60,6 @@ I architect production-grade AI systems, data pipelines, and cloud-native infras
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chethanuk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=chethanuk&theme=onedark&no-frame=true&no-bg=true&column=8&rank=SSS,SS,S,AAA,AA,A"/>
-</a>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chethanuk&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
