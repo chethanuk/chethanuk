@@ -1,16 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=Hey%2C+I+am+Chethan+Umesha+Kyathanahalli)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Senior+AI%2FML+Engineer+%7C+Open+Source+Contributor;Building+Data+%26+AI+Systems+at+Scale)](https://git.io/typing-svg)
 
-🔭 I am a seasoned Senior AI/ML Engineer who architects resilient, scalable data pipelines and DataML Infrastructure, LLM applications and GenAI systems in a Cloud Native stack that unlock and solve intricate challenges for global startups. </br>
-Primarily, I work on orchestrating RAG/AI/Data pipelines and building autonomous AI agents, as well as fine-tuning foundation models, Machine Learning pipelines, and MLOps infrastructure. I specialise in production-grade AI systems, RAG pipelines, and cloud-native solutions that solve complex challenges for global startups </br>
-Also, actively contributing to Apache Airflow, [Apache Pinot](https://www.startree.ai/blogs/apache-pinots-graduation-a-celebration-of-community-and-a-look-ahead) and other open-source projects - and recently in the last 2 years into LLM and AI agentic workflows [[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#), [![Mistral AI]( https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](#), [![OpenAI](https://img.shields.io/badge/LLM-OpenAI-lightgrey)](#)].
+I architect production-grade AI systems, data pipelines, and cloud-native infrastructure. Active open-source contributor with 50+ merged PRs to Apache Airflow, Pinot, Beam, Google, AWS, vLLM, and more. Arctic Code Vault Contributor.
 
-"You have to dream before your dreams come true."
-
-Connect with me here - [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/)
-[![GitHub ChethanUK](https://img.shields.io/github/followers/chethanuk?label=follow&style=social)](https://github.com/chethanuk)
-[![Twitter: BarcaTimes](https://img.shields.io/twitter/follow/BarcaTimes?style=social)](https://twitter.com/BarcaTimes)
-
-- ⚡️ Fun fact: I'm a huge fan of FC Barcelona, I love to travel and hike + ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chethanuk/)
+[![GitHub](https://img.shields.io/github/followers/chethanuk?label=follow&style=social)](https://github.com/chethanuk)
+[![Twitter](https://img.shields.io/twitter/follow/BarcaTimes?style=social)](https://twitter.com/BarcaTimes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
