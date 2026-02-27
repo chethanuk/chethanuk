@@ -6,6 +6,49 @@ I architect production-grade AI systems, data pipelines, and cloud-native infras
 [![GitHub](https://img.shields.io/github/followers/chethanuk?label=follow&style=social)](https://github.com/chethanuk)
 [![Twitter](https://img.shields.io/twitter/follow/BarcaTimes?style=social)](https://twitter.com/BarcaTimes)
 
+---
+
+<details open>
+<summary><h2>Open Source Contributions</h2></summary>
+
+> 50+ merged contributions across mass projects
+
+**Apache Foundation**
+
+[Apache Airflow](https://github.com/apache/airflow) ![](https://img.shields.io/github/stars/apache/airflow?style=flat&label=%E2%AD%90&color=gold) ·
+[Apache Beam](https://github.com/apache/beam) ![](https://img.shields.io/github/stars/apache/beam?style=flat&label=%E2%AD%90&color=gold) ·
+[Apache Pinot](https://github.com/apache/pinot) ![](https://img.shields.io/github/stars/apache/pinot?style=flat&label=%E2%AD%90&color=gold) ·
+[Flink K8s Operator](https://github.com/apache/flink-kubernetes-operator) ![](https://img.shields.io/github/stars/apache/flink-kubernetes-operator?style=flat&label=%E2%AD%90&color=gold)
+
+**AI / ML**
+
+[Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms?style=flat&label=%E2%AD%90&color=gold) ·
+[vLLM AIBrix](https://github.com/vllm-project/aibrix) ![](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat&label=%E2%AD%90&color=gold) ·
+[Open WebUI MCPO](https://github.com/open-webui/mcpo) ![](https://img.shields.io/github/stars/open-webui/mcpo?style=flat&label=%E2%AD%90&color=gold) ·
+[PingCAP AutoFlow](https://github.com/pingcap/autoflow) ![](https://img.shields.io/github/stars/pingcap/autoflow?style=flat&label=%E2%AD%90&color=gold) ·
+[CentralMind Gateway](https://github.com/centralmind/gateway) ![](https://img.shields.io/github/stars/centralmind/gateway?style=flat&label=%E2%AD%90&color=gold)
+
+**Data Infrastructure**
+
+[Trino](https://github.com/trinodb/trino) ![](https://img.shields.io/github/stars/trinodb/trino?style=flat&label=%E2%AD%90&color=gold) ·
+[ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml?style=flat&label=%E2%AD%90&color=gold) ·
+[Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) ![](https://img.shields.io/github/stars/kubeflow/spark-operator?style=flat&label=%E2%AD%90&color=gold) ·
+[SDKMAN](https://github.com/sdkman/sdkman-db-migrations) ![](https://img.shields.io/github/stars/sdkman/sdkman-db-migrations?style=flat&label=%E2%AD%90&color=gold)
+
+**Google**
+
+[Google Tunix](https://github.com/google/tunix) ![](https://img.shields.io/github/stars/google/tunix?style=flat&label=%E2%AD%90&color=gold) ·
+[Cloud Dataproc](https://github.com/GoogleCloudDataproc/initialization-actions) ![](https://img.shields.io/github/stars/GoogleCloudDataproc/initialization-actions?style=flat&label=%E2%AD%90&color=gold)
+
+**AWS**
+
+[Data on EKS](https://github.com/awslabs/data-on-eks) ![](https://img.shields.io/github/stars/awslabs/data-on-eks?style=flat&label=%E2%AD%90&color=gold) ·
+[python-deequ](https://github.com/awslabs/python-deequ) ![](https://img.shields.io/github/stars/awslabs/python-deequ?style=flat&label=%E2%AD%90&color=gold)
+
+**Also contributed to:** [Dapr](https://github.com/dapr/docs) · [Kong Charts](https://github.com/Kong/charts) · [Kubeflow Website](https://github.com/kubeflow/website)
+
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
