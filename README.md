@@ -49,6 +49,10 @@ I architect production-grade AI systems, data pipelines, and cloud-native infras
 
 </details>
 
+## Notable Contributions
+
+![GitHub Metrics](github-metrics.svg)
+
 <details>
 <summary><h2>Tech Stack</h2></summary>
 
