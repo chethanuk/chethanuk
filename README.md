@@ -49,12 +49,6 @@ I architect production-grade AI systems, data pipelines, and cloud-native infras
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
 <details>
 <summary><h2>Tech Stack</h2></summary>
 
@@ -75,5 +69,7 @@ I architect production-grade AI systems, data pipelines, and cloud-native infras
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=chethanuk&theme=onedark&no-frame=true&no-bg=true&column=8&rank=SSS,SS,S,AAA,AA,A"/>
 </a>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chethanuk&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
