@@ -63,22 +63,17 @@ I architect production-grade AI systems, data pipelines, and cloud-native infras
 </details>
 
 
-[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethanuk&theme=monokai)](https://github.com/chethanuk)
+## GitHub Stats
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chethanuk&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanuk&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chethanuk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=chethanuk&theme=onedark&no-frame=true&no-bg=true&column=8&rank=SSS,SS,S,AAA,AA,A"/>
 </a>
-
-
-## Github Profile Stats
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=chethanuk&theme=dark&show_icons=true)](https://github.com/chethanuk)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethanuk&theme=monokai)
-![github Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chethanuk&theme=default)
-
-I get excited about opportunities where I'm able to leverage big data to discover insights and identify patterns that have real human impact. <br/>
-I love connecting with new people, give me a shout at chethanuk@outlook.com or on [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/)!
 
 ---
