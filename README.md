@@ -63,6 +63,7 @@ Also, [actively contributing to Apache Airflow](https://github.com/chethanuk#ope
 - **AI / ML**
 [![vLLM AIBrix](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat-square&label=vLLM+AIBrix&color=gold)](https://github.com/vllm-project/aibrix)
 [![CentralMind Gateway](https://img.shields.io/github/stars/centralmind/gateway?style=flat-square&label=CentralMind+Gateway&color=gold)](https://github.com/centralmind/gateway)
+[![OpenViking Context DB](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square&label=OpenViking+Context+DB&color=gold)](https://github.com/volcengine/OpenViking)
 [![PingCAP AutoFlow](https://img.shields.io/github/stars/pingcap/autoflow?style=flat-square&label=PingCAP+AutoFlow&color=gold)](https://github.com/pingcap/autoflow)
 [![Open WebUI MCPO](https://img.shields.io/github/stars/open-webui/mcpo?style=flat-square&label=open+webui+mcp&color=gold)](https://github.com/open-webui/mcpo)
 [![Swarms](https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&label=Swarms&color=gold)](https://github.com/kyegomez/swarms)
@@ -103,6 +104,3 @@ I love connecting with new people. Give me a shout at chethanuk@outlook.com or o
 [![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethanuk&theme=transparent)](https://github.com/chethanuk)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chethanuk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chethanuk&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
