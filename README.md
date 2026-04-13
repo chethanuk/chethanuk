@@ -63,10 +63,10 @@ Also, [actively contributing to Apache Airflow](https://github.com/chethanuk#ope
 - **AI / ML**
 [![OpenViking.AI DB](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square&label=OpenViking.AI+DB&color=gold)](https://github.com/volcengine/OpenViking)
 [![vLLM AIBrix](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat-square&label=vLLM+AIBrix&color=gold)](https://github.com/vllm-project/aibrix)
-[![CentralMind MCPGateway](https://img.shields.io/github/stars/centralmind/gateway?style=flat-square&label=CentralMind+Gateway&color=gold)](https://github.com/centralmind/gateway)
+[![MCPGateway](https://img.shields.io/github/stars/centralmind/gateway?style=flat-square&label=MCPGateway&color=gold)](https://github.com/centralmind/gateway)
 [![AutoFlow.AI](https://img.shields.io/github/stars/pingcap/autoflow?style=flat-square&label=AutoFlow.AI&color=gold)](https://github.com/pingcap/autoflow)
 [![Swarms](https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&label=Swarms&color=gold)](https://github.com/kyegomez/swarms)
-[![OpenWebUIMCPO](https://img.shields.io/github/stars/open-webui/mcpo?style=flat-square&label=OpenWebUIMCPO&color=gold)](https://github.com/open-webui/mcpo)
+[![OpenWebUIMCPO](https://img.shields.io/github/stars/open-webui/mcpo?style=flat-square&label=MCPO&color=gold)](https://github.com/open-webui/mcpo)
 
 - **Data Infrastructure**
 [![Kubeflow Spark Operator](https://img.shields.io/github/stars/kubeflow/spark-operator?style=flat-square&label=Kubeflow+Spark+Operator&color=gold)](https://github.com/kubeflow/spark-operator)
