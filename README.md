@@ -69,7 +69,7 @@ Also, [actively contributing to Apache Airflow](https://github.com/chethanuk#ope
 [![OpenWebUIMCPO](https://img.shields.io/github/stars/open-webui/mcpo?style=flat-square&label=MCPO&color=gold)](https://github.com/open-webui/mcpo)
 
 - **Data Infrastructure**
-[![Kubeflow Spark Operator](https://img.shields.io/github/stars/kubeflow/spark-operator?style=flat-square&label=Kubeflow+Spark+Operator&color=gold)](https://github.com/kubeflow/spark-operator)
+[![Kubeflow Spark Operator](https://img.shields.io/github/stars/kubeflow/spark-operator?style=flat-square&label=K8s+Spark+Operator&color=gold)](https://github.com/kubeflow/spark-operator)
 [![Trino](https://img.shields.io/github/stars/trinodb/trino?style=flat-square&label=Trino&color=gold)](https://github.com/trinodb/trino)
 [![KubeFlow](https://img.shields.io/github/stars/kubeflow/kubeflow?style=flat-square&label=KUBEFLOW&color=gold)](https://github.com/kubeflow/kubeflow)
 [![ZenML](https://img.shields.io/github/stars/zenml-io/zenml?style=flat-square&label=ZenML&color=gold)](https://github.com/zenml-io/zenml)
