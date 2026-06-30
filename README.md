@@ -7,7 +7,8 @@ Also, [actively contributing to Apache Airflow](https://github.com/chethanuk#ope
 
 "You have to dream before your dreams come true."
 
-⚡️ **Fun fact:** I'm a huge fan of FC Barcelona, and I love traveling, hiking, and gaming on ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white). Please feel free to connect with me on ![X (Twitter) Follow](https://img.shields.io/twitter/follow/barcatimes) or [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/).
+⚡️ **Fun fact:** I'm a huge fan of FCBarcelona, and I love traveling, hiking, and gaming on ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) \
+ Please feel free to connect with me on -> [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/).
 
 <a><h2>Technical Skills & Tools</h2></a>
 
