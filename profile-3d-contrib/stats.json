@@ -6,10 +6,10 @@
   "firstActive": "2025-10-13",
   "lastActive": "2026-10-14",
   "total": 6024,
-  "max": 137,
+  "max": 138,
   "busiest": {
     "date": "2026-03-09",
-    "count": 137
+    "count": 138
   },
   "activeDays": 281,
   "longest": 37,
