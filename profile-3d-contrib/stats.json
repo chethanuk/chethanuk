@@ -1,6 +1,6 @@
 {
   "start": "2025-10-19",
-  "end": "2026-10-21",
+  "end": "2026-10-22",
   "window": "year",
   "cropped": false,
   "firstActive": "2025-10-20",
@@ -13,5 +13,5 @@
   },
   "activeDays": 277,
   "longest": 37,
-  "current": 2
+  "current": 0
 }
