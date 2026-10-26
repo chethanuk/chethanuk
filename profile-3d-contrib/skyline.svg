@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="468" height="347" viewBox="0 0 468 347" role="img" aria-labelledby="t d">
 <title id="t">5,552 contributions · 3D</title>
-<desc id="d">Isometric 3D chart of contributions per day from 2025-10-26 to 2026-10-25.</desc>
+<desc id="d">Isometric 3D chart of contributions per day from 2025-10-26 to 2026-10-26.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.b{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.9,.3,1.15) both}@keyframes grow{from{transform:scaleY(0);opacity:.2}to{transform:scaleY(1);opacity:1}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <text x="12" y="22" font-size="15" font-weight="600" fill="#1f2328">5,552 contributions · 3D</text>
-<text x="12" y="40" font-size="11" fill="#59636e">2025-10-26 → 2026-10-25</text>
+<text x="12" y="40" font-size="11" fill="#59636e">2025-10-26 → 2026-10-26</text>
 <polygon points="69.6,83 75.65,86.53 69.6,90.06 63.55,86.53" fill="#ebedf0"/>
 <g class="b" style="animation-delay:0ms"><title>60 on 2025-10-27</title><polygon points="56.35,61.64 62.4,65.17 62.4,94.26 56.35,90.73" fill="#1a562c"/><polygon points="62.4,65.17 68.45,61.64 68.45,90.73 62.4,94.26" fill="#144222"/><polygon points="62.4,58.11 68.45,61.64 62.4,65.17 56.35,61.64" fill="#216e39"/></g>
 <polygon points="76.8,87.2 82.85,90.73 76.8,94.26 70.75,90.73" fill="#ebedf0"/>
@@ -359,6 +359,7 @@
 <polygon points="393.6,305.6 399.65,309.13 393.6,312.66 387.55,309.13" fill="#ebedf0"/>
 <g class="b" style="animation-delay:1600ms"><title>5 on 2026-10-14</title><polygon points="401.95,300.26 408,303.79 408,312.66 401.95,309.13" fill="#32994d"/><polygon points="408,303.79 414.05,300.26 414.05,309.13 408,312.66" fill="#26763b"/><polygon points="408,296.73 414.05,300.26 408,303.79 401.95,300.26" fill="#40c463"/></g>
 <g class="b" style="animation-delay:1632ms"><title>1 on 2026-10-20</title><polygon points="416.35,303.89 422.4,307.42 422.4,312.66 416.35,309.13" fill="#79b683"/><polygon points="422.4,307.42 428.45,303.89 428.45,309.13 422.4,312.66" fill="#5d8c65"/><polygon points="422.4,300.36 428.45,303.89 422.4,307.42 416.35,303.89" fill="#9be9a8"/></g>
+<polygon points="436.8,305.6 442.85,309.13 436.8,312.66 430.75,309.13" fill="#ebedf0"/>
 <g class="b" style="animation-delay:1536ms"><title>4 on 2026-10-03</title><polygon points="365.95,305.19 372,308.72 372,316.86 365.95,313.33" fill="#32994d"/><polygon points="372,308.72 378.05,305.19 378.05,313.33 372,316.86" fill="#26763b"/><polygon points="372,301.66 378.05,305.19 372,308.72 365.95,305.19" fill="#40c463"/></g>
 <g class="b" style="animation-delay:1568ms"><title>1 on 2026-10-09</title><polygon points="380.35,308.09 386.4,311.62 386.4,316.86 380.35,313.33" fill="#79b683"/><polygon points="386.4,311.62 392.45,308.09 392.45,313.33 386.4,316.86" fill="#5d8c65"/><polygon points="386.4,304.56 392.45,308.09 386.4,311.62 380.35,308.09" fill="#9be9a8"/></g>
 <g class="b" style="animation-delay:1600ms"><title>4 on 2026-10-15</title><polygon points="394.75,305.19 400.8,308.72 400.8,316.86 394.75,313.33" fill="#32994d"/><polygon points="400.8,308.72 406.85,305.19 406.85,313.33 400.8,316.86" fill="#26763b"/><polygon points="400.8,301.66 406.85,305.19 400.8,308.72 394.75,305.19" fill="#40c463"/></g>
@@ -371,5 +372,5 @@
 <g class="b" style="animation-delay:1632ms"><title>2 on 2026-10-24</title><polygon points="387.55,319.54 393.6,323.07 393.6,329.46 387.55,325.93" fill="#79b683"/><polygon points="393.6,323.07 399.65,319.54 399.65,325.93 393.6,329.46" fill="#5d8c65"/><polygon points="393.6,316.01 399.65,319.54 393.6,323.07 387.55,319.54" fill="#9be9a8"/></g>
 <text x="12" y="303" font-size="11" fill="#59636e">Busiest day 2026-03-09 (138)</text>
 <text x="12" y="319" font-size="11" fill="#59636e">Longest streak 37 days</text>
-<text x="12" y="335" font-size="11" fill="#59636e">Active on 272 of 365 days</text>
+<text x="12" y="335" font-size="11" fill="#59636e">Active on 272 of 366 days</text>
 </svg>
