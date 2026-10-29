@@ -1,17 +1,17 @@
 {
   "start": "2025-10-26",
-  "end": "2026-10-28",
+  "end": "2026-10-29",
   "window": "year",
   "cropped": false,
   "firstActive": "2025-10-27",
-  "lastActive": "2026-10-24",
-  "total": 5552,
+  "lastActive": "2026-10-29",
+  "total": 5570,
   "max": 138,
   "busiest": {
     "date": "2026-03-09",
     "count": 138
   },
-  "activeDays": 272,
+  "activeDays": 275,
   "longest": 37,
-  "current": 0
+  "current": 1
 }
