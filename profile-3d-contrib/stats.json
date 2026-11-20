@@ -4,14 +4,14 @@
   "window": "year",
   "cropped": false,
   "firstActive": "2025-11-17",
-  "lastActive": "2026-11-19",
-  "total": 5441,
+  "lastActive": "2026-11-20",
+  "total": 5460,
   "max": 138,
   "busiest": {
     "date": "2026-03-09",
     "count": 138
   },
-  "activeDays": 275,
+  "activeDays": 276,
   "longest": 37,
-  "current": 9
+  "current": 10
 }
